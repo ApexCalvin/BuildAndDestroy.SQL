@@ -1,0 +1,1 @@
+UPDATE Students SET City='Edinburgh' WHERE id=35;
